@@ -7,7 +7,12 @@ namespace PullAndMerge
         static void Main(string[] args)
         {
             Console.WriteLine("Hey team! Let's check that we can work together : )");
-            Console.WriteLine("Sid's contribution")
+
+            Console.WriteLine("Sid's contribution");
+
+          
+            Console.WriteLine("I messed this up");
+
         }
     }
 }
